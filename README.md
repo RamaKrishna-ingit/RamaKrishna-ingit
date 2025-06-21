@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @RamaKrishna-ingit
-- 👀 I’m interested in Freelancing
-- 🌱 I’m currently learning Machinelearning
-- 💞️ I’m looking to collaborate on Software projects
-- 📫 How to reach me ramakrishnanvef@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Iam learnung VideoEditing too..
+# Hey, I’m Ramakrishnan 👋
 
-<!---
-RamaKrishna-ingit/RamaKrishna-ingit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build tools that solve real problems — fast, minimal, and to the point.  
+Not into hype. Just focused on getting better, one project at a time.
+
+## 🧠 What I believe in:
+- Let the work speak
+- Ship > perfect
+- Stay sharp, stay humble
+
+## 🔧 Currently:
+Learning, building, and quietly improving the craft.
+
+> “Code that works is cool. Code that lasts is cooler.”
+
+---
